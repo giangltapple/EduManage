@@ -1,0 +1,7 @@
+{
+  "name": "EduManage Pro - Hệ thống Quản lý Lớp học Thông minh",
+  "description": "Một ứng dụng quản lý lớp học hiện đại tích hợp AI để tối ưu hóa việc điểm danh, quản lý học sinh và lập kế hoạch giảng dạy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
